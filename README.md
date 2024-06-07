@@ -1,4 +1,5 @@
-<img src="design/desktop-design.jpg" alt="" />
+![Screenshot_2](https://github.com/Mahabub21/static-job-listing/assets/158444199/f147e0a7-1167-4fd1-8472-4897211ce325)
+
 
 Job Listings Website
 
@@ -35,9 +36,9 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 Author
 
-Sefat Khan - [GitHub Profile](https://github.com/Sefat-Khan).
+Sefat Khan - https://github.com/Mahabub21/static-job-listing.git.
 
-project preview link:https://sefat-khan.github.io/static-job-listings-master/.
+project preview link:.
 
 License
 This project is licensed under the MIT License.

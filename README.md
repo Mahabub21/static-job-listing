@@ -36,7 +36,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 Author
 
-Sefat Khan - https://github.com/Mahabub21/static-job-listing.git.
+Mahabub Ahmed - https://github.com/Mahabub21/static-job-listing.git.
 
 project preview link:https://mahabub21.github.io/static-job-listing/.
 

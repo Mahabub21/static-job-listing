@@ -38,7 +38,7 @@ Author
 
 Sefat Khan - https://github.com/Mahabub21/static-job-listing.git.
 
-project preview link:.
+project preview link:https://mahabub21.github.io/static-job-listing/.
 
 License
 This project is licensed under the MIT License.
